@@ -1,0 +1,33 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+ul {
+    background-color: antiquewhite;
+}
+nav ul li {
+    padding: 15px 18px 20px 70px;
+    margin-left: 260px;
+    list-style: none;
+    display: inline-block;
+}
+.image {
+    height: 400px;
+    width: 100%;
+}
+.images {
+    height: 100%;
+    width: 100%;
+}
+
+button {
+    padding: 5px;
+}
+.main_div {
+    display: flex;
+    margin-left: 190px;
+
+}
+.text {
+    margin-left: 20px;
+}
